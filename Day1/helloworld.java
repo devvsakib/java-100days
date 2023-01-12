@@ -8,3 +8,7 @@ public class HelloWorld {
 // function name should be camelCase
 // ImLearning - PascalCase
 // imLearning - camelCase
+
+//  Data types
+// Primitive=> int, byte, long, float, short, bool, char
+// Non Primitive => ?
