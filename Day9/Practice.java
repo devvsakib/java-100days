@@ -62,7 +62,12 @@ public class Practice {
          * case 7 -> System.out.println("Thusday");
          * }
          */
-            
+        int year = 2022;
+        if ((year / 4 == 0) && (year % 100 != 0)) {
+            System.out.println("Leap Year");
+        }else{
+            System.out.println("Not Leap Year");
+        }
 
     }
 }
