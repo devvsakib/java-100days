@@ -19,7 +19,15 @@ public class LoopInJava {
         // i++;
         // }while (i < 5);
 
-
+        // For loop
+        // execute a piece of code for specific time
+        // for (int x = 0; x < 5; x++) {
+        // System.out.println(x);
+        // }
+        // even odd output
+        for (int j = 0; j < 10; j++) {
+            System.out.println(j++);
+        }
     }
 }
 /*
