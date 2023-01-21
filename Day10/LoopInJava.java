@@ -11,9 +11,9 @@ public class LoopInJava {
         // System.out.println(i);
         // i++;
         // }
-        
+
         // Do While Loop
-        // run at leat 1 time
+        // run at leat 1 time, even condition is false
         // do{
         // System.out.println(i);
         // i++;
