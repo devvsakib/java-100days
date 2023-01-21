@@ -12,6 +12,13 @@ public class LoopInJava {
         // i++;
         // }
         
+        // Do While Loop
+        // run at leat 1 time
+        // do{
+        // System.out.println(i);
+        // i++;
+        // }while (i < 5);
+
 
     }
 }
