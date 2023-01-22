@@ -21,15 +21,26 @@ public class Practice {
         // Practice 3
         // int n = 5;
         // for (int i = 1; i <= 10; i++) {
-        //     System.out.printf(n*i+ " ");
+        // System.out.printf(n*i+ " ");
         // }
 
         // Practice 4 reverse
         // int n = 5;
         // for (int i = 10; i >= 0; i--) {
-        //     System.out.printf(n*i+ " ");
+        // System.out.printf(n*i+ " ");
         // }
 
+        // Practice 5
+        // int n = 5;
+        // for (int i = n; i > 0; i--) System.out.println(i * i);
+        // int fact = 1;
+        // int i = 1;
+        // while (i <= n) {
+        // fact *= i;
+        // i++;
+        // }
+        // System.out.println(fact);
 
+       
     }
 }
