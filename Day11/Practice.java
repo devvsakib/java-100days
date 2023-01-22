@@ -24,6 +24,11 @@ public class Practice {
         //     System.out.printf(n*i+ " ");
         // }
 
+        // Practice 4 reverse
+        // int n = 5;
+        // for (int i = 10; i >= 0; i--) {
+        //     System.out.printf(n*i+ " ");
+        // }
 
 
     }
