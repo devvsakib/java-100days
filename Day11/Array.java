@@ -10,7 +10,7 @@ public class Array {
         // marks[4] = 60; // overwrite
         // marks[5] = 60;
         int[] marks = { 1, 2, 3, 4, 6, 7 };
-        System.out.println(marks.length);
+        System.out.println(marks);
     }
 }
 
