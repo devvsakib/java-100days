@@ -41,6 +41,12 @@ public class Practice {
         // }
         // System.out.println(fact);
 
+         // Practice 6
+         int n = 5;
+         int sum = 0;
+         for (int i = 1; i <= 10; i++) {
+             System.out.printf(n * i + " ");
+         }
        
     }
 }
