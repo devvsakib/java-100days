@@ -13,11 +13,20 @@ public class ArrayLoop {
         // System.out.println(marks.length);
         // System.out.println(marks.length);
 
-        for (int i = 0; i < names.length; i++) {
-            if(names[i] == "b"){
-                names[i] = "B";
+        // For Loop
+        // for (int i = 0; i < names.length; i++) {
+        // if (names[i] == "b") {
+        // names[i] = "B";
+        // }
+        // System.out.printf(names[i]);
+        // }
+
+        // For each loop
+        for (String i : names) {
+            if (i == "b") {
+                i = "B";
             }
-            System.out.printf(names[i]);
+            System.out.println(i);
         }
 
     }
