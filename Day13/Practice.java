@@ -14,7 +14,7 @@ public class Practice {
         // float num = 87.556f;
         // float num = 87.556f;
         // boolean isArray = false
-        
+
         // Practice 3
         // float[] marks = {50.45f, 76.4f,87.56f, 100.0f};
         // float sum = 0;
@@ -23,15 +23,25 @@ public class Practice {
         // }
         // sum = sum / marks.length;
         // System.out.println(sum);
-        
 
+        // Practice 4 addition of two 2D array
+        int[][] mat1 = {
+                { 1, 2, 3 },
+                { 4, 5, 6 } };
+        int[][] mat2 = {
+                { 3, 4, 5 },
+                { 6, 5, 8 } };
+        int[][] result = {
+                { 0, 0, 0 },
+                { 0, 0, 0 } };
 
-
-
-
-
-
-
+        for (int m1 = 0; m1 < mat1.length; m1++) {  // row
+            for (int i = 0; i < mat1[m1].length; i++) { // column
+                result[m1][i] = mat1[m1][i] + mat2[m1][i];
+                System.out.print(result[m1][i] + " ");
+            }
+            System.out.println();
+        }
 
 
     }
