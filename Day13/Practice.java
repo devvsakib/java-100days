@@ -58,6 +58,5 @@ public class Practice {
         for (int e : arr) {
             System.out.println(e);
         }
-
     }
 }
