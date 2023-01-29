@@ -27,8 +27,8 @@ public class CustomClass {
         // sakib.printDetails();
         // System.out.println();
         // tobi.printDetails();
-        System.out.println();
         sakib.printDetails(1);
+        System.out.println();
         tobi.printDetails(2);
 
     }
