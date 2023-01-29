@@ -24,6 +24,7 @@ public class AccessModGetSet {
         System.out.println(rup.getName());
     }
 
+    
 }
 
 /*
