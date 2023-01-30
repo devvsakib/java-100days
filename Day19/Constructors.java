@@ -10,7 +10,7 @@ class myEmployee {
 
     // Constructor overload
     public myEmployee() {
-        id = 0;
+        id = 1;
         name = "Demo";
     }
 
