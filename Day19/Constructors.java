@@ -1,5 +1,3 @@
-import javax.swing.border.EmptyBorder;
-
 class myEmployee {
     private int id;
     private String name;
@@ -10,11 +8,6 @@ class myEmployee {
         name = myname;
     }
 
-    // Constructor overload
-    public myEmployee() {
-        id = 0;
-        name = "Demo";
-    }
 
     public void setName(String n) {
         name = n;
@@ -36,7 +29,7 @@ class myEmployee {
 public class Constructors {
 
     public static void main(String[] args) {
-        myEmployee ds = new myEmployee();
+        myEmployee ds = new myEmployee(1, "DevvSakib");
         System.out.println(ds.getId());
         System.out.println(ds.getName());
 
