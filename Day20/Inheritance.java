@@ -46,6 +46,11 @@ public class Inheritance {
 }
 /*
  * Inheritance is used to borrow properties from existing class.
+ *
+ * Superclass Base -> Subclass Derived
  * 
  * Browser -> Chrome Browser with many feature.
+ *
+ * When a class inherits from a superclass, itinherits parts of superclass method and fields Java doesn't support multiple inheritance.
+ * Two class cannot be super classes for a subclass.
  */
