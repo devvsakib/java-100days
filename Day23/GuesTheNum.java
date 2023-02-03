@@ -48,7 +48,6 @@ public class GuesTheNum {
         boolean b = false;
         while (!b) {
             g.isCorrectNumber();
-            System.out.println(b);
         }
     }
 }
