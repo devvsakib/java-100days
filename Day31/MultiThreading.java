@@ -1,6 +1,6 @@
 public class MultiThreading {
     public static void main(String[] args) {
-        System.out.println("MultiThread");
+        System.out.println("MultiThread ");
     }
 }
 /*
