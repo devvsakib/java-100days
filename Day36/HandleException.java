@@ -25,9 +25,7 @@ public class HandleException {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Aray exception occured");
             System.out.println(e);
-        }catch(B){
-
-        } catch (Exception e) {
+        }catch (Exception e) {
             System.out.println("Some exception occured");
             System.out.println(e);
         }
