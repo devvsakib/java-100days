@@ -1,6 +1,6 @@
 package com;
 
-public class HashMap {
+public class HashingTechn {
     public static void main(String[] args) {
 
     }
